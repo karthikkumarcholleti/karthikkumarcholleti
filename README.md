@@ -5,19 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikkumarcholleti&label=Profile%20views&color=0e75b6&style=flat" alt="karthikkumarcholleti" /> </p>
 
-- 🔭 I’m currently working on [AI Assistant](https://github.com/karthikkumarcholleti/AI-Assistant)
+- 🔭 I’m currently working on  on building an AI Assistant for Stock Market Learning App by collaborating with my professor at Michigan Technological University [AI Assistant](https://github.com/karthikkumarcholleti/AI-Assistant)
 
-- 🌱 I’m currently learning **Advanced Python, Data Manupulation , Deep Learning**
+- 🌱 I am pursuing my Masters in Data Science at Michigan Technological University (Jan 2024-Dec 2025(expected))
+- 🌱I’m currently learning **Regression Analysis, Predictive Modeling and Information system & Data Management**
+- Worked as a **Junior Data Scientist** at Dun & Bradstreet, Hyderabad, Telangana **(Aug 2022 - Nov 2023)**. Proficient in building Predictive models using Feature Engineering Techniques and optimizing data pipelines using Python and SQL, driving data-driven decision-making across departments. Successfully implemented solutions that streamlined processes and enhanced predictive accuracy for business insights.
 
 - 👨‍💻 All of my projects are available at [https://github.com/karthikkumarcholleti/karthikkumarcholleti](https://github.com/karthikkumarcholleti/karthikkumarcholleti)
 
-- 💬 Ask me about **Python, Fine Tuining**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Neural Networks, LLM's & Fine Tuining**
 
-- 📫 How to reach me **karthikkumarcholleti@gmail.com**
+- 📫 How to reach me **kchollet@mtu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karthik kumar cholleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik kumar cholleti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karthikcholleti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik kumar cholleti" height="30" width="40" /></a>
 <a href="https://instagram.com/karthik.chary_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthik.chary_" height="30" width="40" /></a>
 </p>
 
