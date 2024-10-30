@@ -9,8 +9,18 @@
 
 - 🌱 I am pursuing my Masters in Data Science at Michigan Technological University (Jan 2024-Dec 2025(expected))
 - 🌱I’m currently learning **Regression Analysis, Predictive Modeling and Information system & Data Management**
-- Worked as a **Junior Data Scientist** at Dun & Bradstreet, Hyderabad, Telangana **(Aug 2022 - Nov 2023)**. Proficient in building Predictive models using Feature Engineering Techniques and optimizing data pipelines using Python and SQL, driving data-driven decision-making across departments. Successfully implemented solutions that streamlined processes and enhanced predictive accuracy for business insights.
+- Worked as a **Junior Data Scientist** at Dun & Bradstreet, Hyderabad, Telangana **(Aug 2022 - Nov 2023)**.
 
+  Proficient in building Predictive models using Feature Engineering Techniques and optimizing data pipelines using Python and SQL.
+
+  Developed machine learning models for credit risk and fraud detection, increasing risk accuracy by 20%.
+
+  Leveraged advanced feature engineering techniques with Python and Pandas for precise business forecasts from firmographic data sets.
+
+  Enhanced D-U-N-S Manager tool, improving customer data accuracy by 25%
+
+  Presented insights with Matplotlib and Seaborn to support strategic decisions in finance and telecom.
+  
 - 👨‍💻 All of my projects are available at [https://github.com/karthikkumarcholleti/karthikkumarcholleti](https://github.com/karthikkumarcholleti/karthikkumarcholleti)
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Neural Networks, LLM's & Fine Tuining**
