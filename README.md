@@ -33,7 +33,7 @@ Previously, I worked as a **Junior Data Scientist at Dun & Bradstreet**, buildin
 
 # ⭐ Some of my projects
 
-### 🏥 LLM‑Powered Clinical Insights System (Graduate Research Assistant)
+### 🏥 Generative AI-LLM based Clinical Decision Support System 
 
 I am currently working on a research entitled “Large Language Model Implementation over Longitudinal Patient Records for Clinical Decision Modeling using Elastic Search and
 RAG”. 
