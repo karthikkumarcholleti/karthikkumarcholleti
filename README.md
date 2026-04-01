@@ -136,8 +136,9 @@ A full‑stack AI assistant for real‑time stock analysis, trend detection, and
 ## 📌 Experience 
 
 - **Graduate Research Assistant – AI/LLM Systems Engineering**  
-  Michigan Technological University (January 2024–Present)
-
+  Michigan Technological University (December 2024–Present)
+- **Graduate Research Assistant – Clinical Data Engineering**  
+  Michigan Technological University (February 2024–November 2024)
 - **Junior Data Scientist**  
   Dun & Bradstreet (December 2021–November 2023)
 
